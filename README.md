@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">✨ Hey there, I'm Rose Reyes 👩‍💻</h1>
+<p align="center">Developer • Problem Solver • Tech Explorer</p>
 
-<!--
-**RoseReyes/RoseReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/rosereyes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project           | Demo                                                                 | Code                                                                 |
+|-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Clothing Shop** | [Live Demo](https://rose-reyes.github.io/clothingShop/)             | [GitHub Repo](https://github.com/RoseReyes/clothingShop)            |
+| **Monster Rolodex** | [Live Demo](https://rose-reyes.github.io/monsterRolodex/)         | [GitHub Repo](https://github.com/RoseReyes/monsterRolodex)          |
+| **Flixx App JS**  | [Live Demo](https://rose-reyes.github.io/flixx-app-js/)             | [GitHub Repo](https://github.com/RoseReyes/flixx-app-js)            |
+| **HitchHikers**   | [Live Demo](https://rose-reyes.github.io/HitchHikers/)              | [GitHub Repo](https://github.com/4hitchhikers/HitchHikers)          |
+
+### 🌱 Currently Exploring
+```
+Languages:   TypeScript - refresher 
+Frontend:    React (Advanced) • Next.js • TailwindCSS  
+Backend:     Node.js • Express
+```
+
+
+### 🛠️ Tech Stack
+
+```plaintext
+Languages:   JavaScript • TypeScript • Python  
+Frontend:    Angular • React (Basic) • Material UI • CSS • HTML
+Backend:     C# • SQL • Restful API
+Testing:     Jest 
+Dev Tools:   Git • Docker • VS Code
+```
+
+### 🧭 About Me
+I'm a developer focused on building fast, accessible, and user-centered apps. I love clean code, simple UI, and learning new tools that make development more powerful and elegant.
+
+
+

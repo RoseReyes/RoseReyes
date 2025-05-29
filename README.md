@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Rose Reyes 👩‍💻</h1>
+<h1 align="center">✨ Hey there! 👩‍💻</h1>
 <p align="center">Developer • Problem Solver • Tech Explorer</p>
 
 <p align="center">

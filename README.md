@@ -32,6 +32,7 @@ Frontend:    Angular • React (Basic) • Material UI • CSS • HTML
 Backend:     C# • SQL • Restful API
 Testing:     Jest • QUnit 
 Dev Tools:   Git  • VS Code
+Library:     Storybook • JQuery 
 ```
 
 ### 🧭 About Me

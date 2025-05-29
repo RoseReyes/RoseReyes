@@ -30,8 +30,8 @@ Backend:     Node.js • Express
 Languages:   JavaScript • TypeScript • Python  
 Frontend:    Angular • React (Basic) • Material UI • CSS • HTML
 Backend:     C# • SQL • Restful API
-Testing:     Jest 
-Dev Tools:   Git • Docker • VS Code
+Testing:     Jest • QUnit 
+Dev Tools:   Git  • VS Code
 ```
 
 ### 🧭 About Me

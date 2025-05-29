@@ -16,21 +16,24 @@
 | **Flixx App JS**  | [Live Demo](https://rose-reyes.github.io/flixx-app-js/)             | [GitHub Repo](https://github.com/RoseReyes/flixx-app-js)            |
 | **HitchHikers**   | [Live Demo](https://rose-reyes.github.io/HitchHikers/)              | [GitHub Repo](https://github.com/4hitchhikers/HitchHikers)          |
 
+### 🚀 Video Demos - Practicing formal teaching and learning repetition
+🎥 [React's Portal](https://vimeo.com/1088271055/e75c77de3b)
+🎥 [React's child props](https://vimeo.com/1060668292/5df1aef602)
+🎥 [Jasmine Testing Framework](https://vimeo.com/1053237009/03945381fe)
+
 ### 🌱 Currently Exploring
 ```
 Languages:   TypeScript - refresher 
-Frontend:    React (Advanced) • Next.js • TailwindCSS  
+Frontend:    React (Advanced) • Next.js • TailwindCSS
 Backend:     Node.js • Express
 ```
-
-
 ### 🛠️ Tech Stack
 
 ```plaintext
 Languages:   JavaScript • TypeScript • Python  
 Frontend:    Angular • React (Basic) • Material UI • CSS • HTML
 Backend:     C# • SQL • Restful API
-Testing:     Jest • QUnit 
+Testing:     Jest • QUnit • Jasmine 
 Dev Tools:   Git  • VS Code
 Library:     Storybook • JQuery 
 ```

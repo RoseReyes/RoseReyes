@@ -11,10 +11,10 @@
 
 | Project           | Demo                                                                 | Code                                                                 |
 |-------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Clothing Shop** | [Live Demo - in progress](https://rose-reyes.github.io/clothingShop/)             | [GitHub Repo](https://github.com/RoseReyes/clothingShop)            |
-| **Monster Rolodex** | [Live Demo - in progress](https://rose-reyes.github.io/monsterRolodex/)         | [GitHub Repo](https://github.com/RoseReyes/monsterRolodex)          |
-| **Flixx App JS**  | [Live Demo - in progress](https://rose-reyes.github.io/flixx-app-js/)             | [GitHub Repo](https://github.com/RoseReyes/flixx-app-js)            |
-| **HitchHikers**   | [Live Demo - in progress](https://rose-reyes.github.io/HitchHikers/)              | [GitHub Repo](https://github.com/4hitchhikers/HitchHikers)          |
+| **Clothing Shop** | [Live Demo - coming soon..](https://rose-reyes.github.io/clothingShop/)             | [GitHub Repo](https://github.com/RoseReyes/clothingShop)            |
+| **Monster Rolodex** | [Live Demo - coming soon..](https://rose-reyes.github.io/monsterRolodex/)         | [GitHub Repo](https://github.com/RoseReyes/monsterRolodex)          |
+| **Flixx App JS**  | [Live Demo - coming soon..](https://rose-reyes.github.io/flixx-app-js/)             | [GitHub Repo](https://github.com/RoseReyes/flixx-app-js)            |
+| **HitchHikers**   | [Live Demo - coming soon..](https://rose-reyes.github.io/HitchHikers/)              | [GitHub Repo](https://github.com/4hitchhikers/HitchHikers)          |
 
 ### 🎥 Video Demos - Practice formal teaching and learning repetition
 [React's Portal](https://vimeo.com/1088271055/e75c77de3b) <br>

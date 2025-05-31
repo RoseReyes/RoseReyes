@@ -1,7 +1,4 @@
 <h1 align="center">✨ Hey there! 👩‍💻</h1>
-<p align="center"> <a href="https://linkedin.com/in/rosereyes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a></p>
 
 ### 🚀 Featured Projects
 

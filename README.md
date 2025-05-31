@@ -1,4 +1,4 @@
-<h1 align="start">✨ Hey there! 👩‍💻</h1>
+<h1 align="start">Hey there! 👩‍💻</h1>
 
 ### 🚀 Featured Projects
 

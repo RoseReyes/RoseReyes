@@ -32,7 +32,6 @@ Library:     Storybook • JQuery
 ```
 
 ### 🧭 About Me
-I'm a developer focused on building accessible and user-centered apps. I love clean code, simple UI, and learning new tools that make development more powerful and elegant.
-
+I'm a developer who loves building accessible, user-friendly apps—and always looking to learn and grow. Whether it's writing cleaner code, designing simpler UIs, or exploring new tools, I'm all about improving my skills and creating better experiences.
 
 

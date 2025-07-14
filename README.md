@@ -24,7 +24,7 @@ Backend:     Node.js • Express
 
 ```plaintext
 Languages:   JavaScript • TypeScript • Python  
-Frontend:    Angular • React (Basic) • Material UI • CSS • HTML
+Frontend:    Angular • React • Material UI • CSS • HTML
 Backend:     C# • SQL • Restful API
 Testing:     Jest • QUnit • Jasmine 
 Dev Tools:   Git  • VS Code
